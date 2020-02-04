@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<IndicadoresFinancieros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="1.0" xsi:schemaLocation="http://api.sbif.cl http://api.sbif.cl/IndicadoresFinancieros-v1.0.xsd" xmlns="http://api.sbif.cl">
+    <UFs/>
+    <UTMs/>
+    <TABs/>
+    <IPCs/>
+    <Dolares>
+        <Dolar>
+            <Fecha>2020-02-03</Fecha>
+            <Valor>799,11</Valor>
+        </Dolar>
+    </Dolares>
+    <Euros/>
+    <TMCs/>
+    <TIPs/>
+    <Perfiles/>
+</IndicadoresFinancieros>
